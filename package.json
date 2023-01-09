@@ -23,7 +23,7 @@
     "lodash": "^4.17.14",
     "moment": "^2.24.0",
     "pg": "^7.12.1",
-    "probot": "^9.5.0",
+    "probot": "^12.2.8",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
